@@ -23,6 +23,8 @@ A custom PCB was used along with a a T-cobbler plus to help route all the connec
 ![PCBGerber](https://user-images.githubusercontent.com/85246308/121282752-e2bed300-c88e-11eb-903e-8b345ee6c7c4.jpg)
 
 Full Wiring Schematic can be found here:
+
+
 ![FinalCircuit_bb-1](https://user-images.githubusercontent.com/85246308/121282812-fa965700-c88e-11eb-90a4-256b31be0332.png)
 
 This code still has some errors in the MainRGB.py file. When trying to use the the dependent .py files there were import and array size issues. Each component
