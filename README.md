@@ -1,7 +1,7 @@
 # AutomatedSolubility
 An unfinished Python repository for determining the solubility points for novel combinations of salts and liquids 
 
-Sol.jpeg![Sol](https://user-images.githubusercontent.com/85246308/121282489-75ab3d80-c88e-11eb-80e2-d352101327a5.jpeg)
+[Sol](https://user-images.githubusercontent.com/85246308/121282489-75ab3d80-c88e-11eb-80e2-d352101327a5.jpeg)
 
 This is the code package for an automated solubility device and is implemented on a Raspberry Pi 3B. This package has other dependencies that can be found here:
 
